@@ -12,7 +12,7 @@ A few days before the event we will publish the schedule of breakout sessions.
 * [Time slots](../../wiki/Session%E2%80%90Time%E2%80%90Slots)
 * [W3C Calendar of breakout sessions](https://www.w3.org/calendar/breakouts-day-2026/).
 * [Good Practices for Session Chairs](https://github.com/w3c/tpac-breakouts/wiki/Good-Practices-for-Session-Chairs), including instructions for proposing a breakout session, training for your session, and tips for running your session.
-* [Breakout policies](https://github.com/w3c/breakouts-day-2025/wiki/Policies) regarding session scope, participation, and how the meeting planners optimize scheduling and room assignments.
+* [Breakout policies](../../wiki/Policies) regarding session scope, participation, and how the meeting planners optimize scheduling and room assignments.
 
 # Audience
 
