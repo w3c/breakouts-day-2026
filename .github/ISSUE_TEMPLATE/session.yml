@@ -38,6 +38,24 @@ body:
     validations:
       required: false
 
+  - type: markdown
+    attributes:
+      value: |
+        ## Preferences
+
+  - type: dropdown
+    id: timeofday
+    attributes:
+      label: Preferred part of the day (UTC) for the session
+      description: |
+        Please indicate whether you have a preference that your session take place in the afternoon (UTC) or evening (UTC). The default is "No preference."
+      options:
+        - No preference (Default)
+        - Afternoon (UTC)
+        - Evening (UTC)
+    validations:
+      required: true
+
   - type: textarea
     id: comments
     attributes:
@@ -66,24 +84,6 @@ body:
         Shortname for the irc.w3.org channel (e.g., `#my-fav-session`). If not provided, shortname will be generated from title.
     validations:
       required: false
-
-  - type: markdown
-    attributes:
-      value: |
-        ## Preferences
-
-  - type: dropdown
-    id: timeofday
-    attributes:
-      label: Preferred part of the day (UTC) for the session
-      description: |
-        Please indicate whether you have a preference that your session take place in the afternoon (UTC) or evening (UTC). The default is "No preference."
-      options:
-        - No preference (Default)
-        - Afternoon (UTC)
-        - Evening (UTC)
-    validations:
-      required: true
 
   - type: markdown
     attributes:
