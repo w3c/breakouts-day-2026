@@ -8,7 +8,7 @@ This repo is for the W3C community to propose and organize breakout sessions for
 A few days before the event we will publish the schedule of breakout sessions.
 
 * [List of proposed sessions](../../issues). We welcome expressions of support (through emojis), questions, and other comments.
-* [Proposed a session](https://github.com/w3c/breakouts-day-2026/issues/new?assignees=&labels=session&projects=&template=session.yml)
+* [Propose a session](https://github.com/w3c/breakouts-day-2026/issues/new?assignees=&labels=session&projects=&template=session.yml)
 * [Schedule up to breakouts day](../../wiki/Meeting-Planner-Resources) including deadline for proposals (10 March).
 * [Time slots](../../wiki/Session%E2%80%90Time%E2%80%90Slots)
 * [W3C Calendar of breakout sessions](https://www.w3.org/calendar/breakouts-day-2026/).
