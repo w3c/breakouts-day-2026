@@ -80,8 +80,8 @@ body:
         Please indicate whether you have a preference that your session take place in the afternoon (UTC) or evening (UTC). The default is "No preference."
       options:
         - No preference (Default)
-        - Afternoon session (UTC)
-	- Evening session (UTC)
+        - Afternoon (UTC)
+	- Evening (UTC)
     validations:
       required: true
 
