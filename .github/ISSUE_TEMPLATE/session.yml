@@ -72,6 +72,19 @@ body:
       value: |
         ## Preferences
 
+  - type: dropdown
+    id: timeofday
+    attributes:
+      label: Preferred part of the day (UTC) for the session
+      description: |
+        Please indicate whether you have a preference that your session take place in the afternoon (UTC) or evening (UTC). The default is "No preference."
+      options:
+        - No preference (Default)
+        - Afternoon session (UTC)
+	- Evening session (UTC)
+    validations:
+      required: true
+
   - type: markdown
     attributes:
       value: |
