@@ -46,13 +46,13 @@ body:
   - type: dropdown
     id: timeofday
     attributes:
-      label: Preferred part of the day (UTC) for the session
+      label: Preferred slots
       description: |
-        Please indicate whether you have a preference that your session take place in the afternoon (UTC) or evening (UTC). The default is "No preference."
+        Please indicate whether you have a preference that your session take place in an afternoon slot or an evening slot (UTC). The default is "No preference."
       options:
         - No preference (Default)
-        - Afternoon (UTC)
-        - Evening (UTC)
+        - Afternoon slot (25 March)
+        - Evening slot (26 March)
     validations:
       required: true
 
