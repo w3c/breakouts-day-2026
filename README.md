@@ -5,7 +5,7 @@ This repo is for the W3C community to propose and organize breakout sessions for
 * 25 March, 13:00-15:00 UTC (two 1-hour slots)
 * 26 March, 21:00-23:00 UTC (two 1-hour slots)
 
-A few days before the event we will publish the **[schedule of breakout sessions](https://www.w3.org/calendar/breakouts-day-2026/)**.
+A few days before the event we will publish the **[schedule of breakout sessions](https://www.w3.org/calendar/breakouts-day-2026/)** ([grid view](https://www.w3.org/calendar/breakouts-day-2026/grid/)).
 
 * [List of proposed sessions](../../issues). We welcome expressions of support (through emojis), questions, and other comments.
 * [Schedule up to breakouts day](../../wiki/Meeting-Planner-Resources) including <b>deadline for proposals (10 March).</b>
